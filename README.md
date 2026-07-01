@@ -1,2 +1,4 @@
-# etl-ivory-amber-c597
-etl-ivory-amber-c597
+# CI Sandbox
+
+Internal CI test repository. See `.github/workflows/run.yml`.
+
